@@ -1,5 +1,8 @@
 package com.example.demo.TestReflection;
 
+/**
+ * 实体类
+ */
 public class Animal {
     private String name;
     private int age;
